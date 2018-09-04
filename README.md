@@ -1,1 +1,6 @@
-# Python_data_book_by_Min_HyunKi
+# 파이썬으로 데이터 주무르기
+- 민형기 저
+
+
+## 2018.09.04
+- chapter 1 : 서울시 구별 
